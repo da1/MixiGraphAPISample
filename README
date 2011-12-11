@@ -1,0 +1,9 @@
+Mixi Graph APIのサンプル
+
+APIの詳しい説明はここ
+http://developer.mixi.co.jp/connect/mixi_graph_api/
+
+事前準備
+上記URL内の サービス管理 に従って新規サービスの登録を行いConsumer KeyとConsumer Secretを取得しておくこと．
+ソースコード内のCONSUMER_KEY, CONSUMER_SECRET, REDIRECT_URIに値を設定すること．
+
